@@ -2289,7 +2289,7 @@ Vue.component('TodoItem', {
 │   ├── prod.env.js                     生产环境变量
 │   └── test.env.js                     测试环境变量
 ├── mock                            mock数据目录
-│   └── hello.js
+│   └── index.js
 ├── package.json                    npm包配置文件，里面定义了项目的npm脚本，依赖包等信息
 ├── src                             项目源码目录
 │   ├── main.js                         入口js文件
